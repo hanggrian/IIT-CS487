@@ -1,5 +1,5 @@
 ::: title
-AI-based Content Generation
+Assessing the viability of contemporary generative chatbots
 :::
 
 ::: authors
@@ -9,15 +9,38 @@ Hendra Anggrianto Wijaya<br>A20529195<br>*Illinois Institute of Technology*<br>h
 ::: content
 **_Abstract_&mdash;.**
 
-**_Index Terms_&mdash**
+**_Index Terms_&mdash;generative AI, chat bots, artificial intelligence, content
+generation**
 
 ## I. Introduction
 
-## II. Overview of Case Study
+## II. Comparison of Content
 
-## III. Conclusion
+### A. Plain English
 
-## IV. References
+### B. Academic English
+
+### C. Code
+
+### D. Art
+
+## III. Engineering of Chatbots
+
+### A. Awareness
+
+### B. Consciousness
+
+## IV. Evaluation of Impact
+
+### A. Validity
+
+### B. Liability
+
+### C. Reliability
+
+## V. Conclusion
+
+## VI. References
 
 ::: references
 1.
