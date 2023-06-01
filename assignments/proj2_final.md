@@ -1,5 +1,5 @@
 ::: title
-Assessing the viability of contemporary generative chatbots
+The State of Generative AIs: A Narrative Review
 :::
 
 ::: authors

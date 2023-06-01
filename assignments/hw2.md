@@ -14,6 +14,8 @@
 > 3. “The system must accurately assess the student’s
     awareness of course material”.
 
+
+
 ## Problem 2
 
 > Propose an HCI “protocol” to satisfy the above and explain how each part
@@ -21,3 +23,5 @@
 >
 > 1. C &rarr; H: Describe how questions are presented to the student.
 > 2. H &rarr; C: Describe how the students will submit their responses.
+
+
