@@ -1,9 +1,9 @@
 # [Homework 2](https://github.com/hendraanggrian/IIT-CS487/blob/assets/assignments/hw2.pdf)
 
+> Consider an automated exam system.
+
 ## Problem 1
 
-> Consider an automated exam system.
->
 > Describe test cases to prove the system satisfies each of the following
   requirements (you may improve the requirements in any way you see as
   necessary):
