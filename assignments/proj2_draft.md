@@ -61,7 +61,7 @@ analysis reports and academic papers. In addition, Bard is at the advantage of
 being maintained by Google, the biggest search engine for limitless data-feeding
 prospect, as opposed to ChatGPT which is still capped at 2021 knowledge.
 
-### C. Code
+### B. Code
 
 ChatGPT and Bard are capable of producing code, albeit chaotically as code
 requires more precision and detailed problem descriptions than natural
@@ -98,7 +98,7 @@ def has_close_elements ( numbers : List [ float ] , threshold :
 
 <small>Figure 1 &mdash; Example of GitHub Copilot suggestion (in string)</small>
 
-### D. Art
+### C. Art
 
 Synthesizing images requires a different toolset that conventional LLMs lack.
 The current working model is diffusion, that is, repeatedly adding noise to the
@@ -177,7 +177,7 @@ will inevitably create opportunities, further evaluation is required to learn
 the detailed economic impact and the business model essential to sustain the
 operations.
 
-### B. Liability
+### A. Liability
 
 For so long in software products and services, the burden of accountability lies
 on the software provider or maintainer. Case in point, an early record of
@@ -192,7 +192,7 @@ which emphasizes responsibility on the trainers as well as the programmers.\[11\
 The users are also somewhat at risk with this model, though the settlement is
 likely to be on a case-to-case basis.
 
-### C. Reliability
+### B. Reliability
 
 The question of trustworthiness arises as more AIs will be incorporated into our
 daily lives, particularly, whether or not humans should put absolute confidence
