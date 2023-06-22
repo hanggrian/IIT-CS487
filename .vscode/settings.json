@@ -1,12 +1,11 @@
 {
   "markdown-pdf.format": "Letter",
   "markdown-pdf.styles": [
-    "~/Documents/GitHub/markdown-pdf-styles/styles/column-three.css",
-    "~/Documents/GitHub/markdown-pdf-styles/cheatsheet.css",
+    "~/Documents/GitHub/markdown-pdf-styles/ieee.css",
   ],
-  "markdown-pdf.margin.top": "0.25in",
-  "markdown-pdf.margin.bottom": "0.25in",
-  "markdown-pdf.margin.right": "0.25in",
-  "markdown-pdf.margin.left": "0.25in",
+  "markdown-pdf.margin.top": "0.75in",
+  "markdown-pdf.margin.bottom": "1in",
+  "markdown-pdf.margin.right": "0.63in",
+  "markdown-pdf.margin.left": "0.63in",
   "markdown-pdf.displayHeaderFooter": false,
 }
