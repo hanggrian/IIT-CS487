@@ -14,6 +14,8 @@
 
 ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/embedded-system/context_model.png)
 
+[View diagram file](https://github.com/hendraanggrian/IIT-CS487/blob/main/embedded-system/context_model.drawio)
+
 ## Problem 2
 
 > Create a table identifying:

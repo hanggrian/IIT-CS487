@@ -3,7 +3,7 @@
 ## Automation
 
 | Benefits | Guides |
-| --- | --- |
+| :---: | :---: |
 | Speed (computers can outperform humans) | Easier if those steps are well
 defined. |
 | Reliability (computers always follow the rules) | Simple to understand. |
@@ -21,7 +21,7 @@ defined. |
 ### Incremental vs prototyping
 
 | Incremental | Prototyping |
-| --- | --- |
+| :---: | :---: |
 | Consists of a series of planned (relatively small) efforts designed to result in a complete system to user specification. | Can be used to facilitate incremental development by incrementally improving the prototype into the finished system. |
 
 ## Reuse

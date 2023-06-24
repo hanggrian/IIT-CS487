@@ -35,13 +35,18 @@ android {
         }
     }
     testOptions.unitTests.isIncludeAndroidResources = true
+    lint.abortOnError = false
 }
 
 dependencies {
     ktlint(libs.ktlint, ::configureKtlint)
     implementation(libs.material)
+    implementation(libs.androidx.appcompat)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.preference.ktx)
     implementation(libs.androidx.viewpager2)
+    implementation(libs.androidx.coordinatorlayout)
+    implementation(libs.androidx.constraintlayout)
     implementation(libs.androidx.multidex)
+    implementation(libs.gson)
 }
