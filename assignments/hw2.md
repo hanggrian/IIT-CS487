@@ -10,8 +10,8 @@
 
 ### Subproblem 1A
 
-> “The system must accept responses such that the system is fully aware of the
-  student’s intent for each response”.
+> "The system must accept responses such that the system is fully aware of the
+  student’s intent for each response".
 
 Protecting against cheating has always been a challenge in any exam, even more
 so in an automated environment where there is little or no human supervision. As
@@ -30,7 +30,7 @@ distinguish malicious attempts and good intentions during ongoing exams.
 
 ### Subproblem 1B
 
-> “The system must grade all exam questions quickly”.
+> "The system must grade all exam questions quickly".
 
 Swiftness in grading is a tricky requirement considering correct assessment is
 deemed more important than how fast they can be produced. The system is also at
@@ -47,8 +47,8 @@ grading capability.
 
 ### Subproblem 1C
 
-> “The system must accurately assess the student’s awareness of course
-  material”.
+> "The system must accurately assess the student’s awareness of course
+  material".
 
 I would relate course material awareness to student's academic comprehension and
 therefore directly affects the scoring system. To measure such comprehension,
@@ -62,7 +62,7 @@ latest knowledge base.
 
 ## Problem 2
 
-> Propose an HCI “protocol” to satisfy the above and explain how each part
+> Propose an HCI "protocol" to satisfy the above and explain how each part
   addresses the requirements:
 >
 > - C &rarr; H: Describe how questions are presented to the student.
@@ -70,15 +70,15 @@ latest knowledge base.
 
 ### Subproblem 2A
 
-> “The system must accept responses such that the system is fully aware of the
-  student’s intent for each response”.
+> "The system must accept responses such that the system is fully aware of the
+  student’s intent for each response".
 
 Split the question sheet into sub-sections and track students' movement in each
 section. Malicious intent like copy-pasting from other sources is to be noted.
 
 ### Subproblem 2B
 
-> “The system must grade all exam questions quickly”.
+> "The system must grade all exam questions quickly".
 
 Instead of waiting for users to submit the whole paper, the system can start
 pre-calculating the scores as users enter their input. For example, when a
@@ -87,7 +87,7 @@ use it unless the user goes back to the initial question.
 
 ### Subproblem 2C
 
-> “The system must accurately assess the student’s awareness of course
-  material”.
+> "The system must accurately assess the student’s awareness of course
+  material".
 
 Validate student answers with content from lectures given earlier.

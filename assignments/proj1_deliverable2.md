@@ -144,14 +144,14 @@ troubleshooting.
 
 ## Prototype
 
-| Login | Sign up |
-| --- | --- |
-| ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype1.png) | ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype2.png) |
+Login | Sign up
+--- | ---
+![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype1.png) | ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype2.png)
 
-| Calendar view | List view | Class view |
-| --- | --- | --- |
-| ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype3.png) | ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype4.png) | ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype5.png) |
+Calendar view | List view | Class view
+--- | --- | ---
+![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype3.png) | ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype4.png) | ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype5.png)
 
-| Add assignment | View assignment |
-| --- | --- |
-| ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype6.png) | ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype7.png) |
+Add assignment | View assignment
+--- | ---
+![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype6.png) | ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype7.png)

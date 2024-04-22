@@ -12,27 +12,27 @@ test cases besides the ones disabled and delivers to the appropriate audience.
 
 ### Create account
 
-| #1 | #2 | #3 |
-| --- | --- | --- |
-| <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat1_1.png"> | <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat1_2.png"> | <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat1_3.png"> |
+#1 | #2 | #3
+--- | --- | ---
+<img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat1_1.png"> <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat1_2.png"> <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat1_3.png">
 
 ### List homeworks
 
-| #1 | #2 | #3 |
-| --- | --- | --- |
-| <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat2_1.png"> | <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat2_2.png"> | <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat2_3.png"> |
+#1 | #2 | #3
+--- | --- | ---
+<img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat2_1.png"> <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat2_2.png"> <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat2_3.png">
 
 ### Delete and view
 
-| #1 | #2 |
-| --- | --- |
-| <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat3_1.png"> | <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat3_2.png"> |
+#1 | #2
+--- | ---
+<img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat3_1.png"> <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat3_2.png">
 
 ### Error messages
 
-| #1 | #2 |
-| --- | --- |
-| <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat4_1.png"> | <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat4_2.png"> |
+#1 | #2
+--- | ---
+<img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat4_1.png"> | <img width="240" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/uat4_2.png">
 
 ## Section 3
 
@@ -58,8 +58,8 @@ constraint.
 
 ### Source code
 
-| Artifact | URL |
-| --- | --- |
-| Source code | [github.com/efarrington64/homeworkcalendarapp](https://github.com/efarrington64/homeworkcalendarapp/) |
-| Demo video | [demo.mp4](https://github.com/efarrington64/homeworkcalendarapp/raw/assets/demo.mp4) |
-| Installer | [hca-0.1-debug.apk](https://github.com/efarrington64/homeworkcalendarapp/releases/download/0.1/hca-0.1-debug.apk) |
+Artifact | URL
+--- | ---
+Source code | [github.com/efarrington64/homeworkcalendarapp](https://github.com/efarrington64/homeworkcalendarapp/)
+Demo video | [demo.mp4](https://github.com/efarrington64/homeworkcalendarapp/raw/assets/demo.mp4)
+Installer | [hca-0.1-debug.apk](https://github.com/efarrington64/homeworkcalendarapp/releases/download/0.1/hca-0.1-debug.apk)

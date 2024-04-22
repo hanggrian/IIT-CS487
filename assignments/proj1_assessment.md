@@ -1,11 +1,11 @@
 # Team Assessment: HCA
 
-| Name | Email |
-| --- | ---: |
-| Farrington, Evan | efarrington@hawk.iit.edu |
-| Cole, Zakary | zcole2@hawk.iit.edu |
-| Langdon, Deshon Langdon | dlangdon1@hawk.iit.edu |
-| Wijaya, Hendra Anggrianto | hwijaya@hawk.iit.edu |
+Name | Email
+--- | ---:
+Farrington, Evan | efarrington@hawk.iit.edu
+Cole, Zakary | zcole2@hawk.iit.edu
+Langdon, Deshon Langdon | dlangdon1@hawk.iit.edu
+Wijaya, Hendra Anggrianto | hwijaya@hawk.iit.edu
 
 ## Section 1
 
@@ -23,21 +23,21 @@ design blueprint, and delivered to the customer as a demo version.
 
 ## Section 2
 
-| Name | Role |
-| --- | --- |
-| Evan | **Leader** &ndash; Settles a debate, and writes technical documentation. |
-| Zakary | **Programmer** &ndash; Writes code, and writes technical documentation (moderately). |
-| Deshon | **Designer** &ndash; Draws designs & diagrams, and writes code (moderately). |
-| Hendra | **Janitor** &ndash; Cleans up the remaining work the rest of the team can't finish. |
+Name | Role
+--- | ---
+Evan | **Leader** &ndash; Settles a debate, and writes technical documentation.
+Zakary | **Programmer** &ndash; Writes code, and writes technical documentation (moderately).
+Deshon | **Designer** &ndash; Draws designs & diagrams, and writes code (moderately).
+Hendra | **Janitor** &ndash; Cleans up the remaining work the rest of the team can't finish.
 
 ## Section 3
 
-| Name | Performance |
-| --- | --- |
-| Evan | **Good** &ndash; Capable leader, I have nothing to attest. |
-| Zakary | **Great** &ndash; Innovative coder, who took steps proactively. |
-| Deshon | **Great** &ndash; Always the earliest to report, should have been the leader. |
-| Hendra | &ndash; |
+Name | Performance
+--- | ---
+Evan | **Good** &ndash; Capable leader, I have nothing to attest.
+Zakary | **Great** &ndash; Innovative coder, who took steps proactively.
+Deshon | **Great** &ndash; Always the earliest to report, should have been the leader.
+Hendra | &ndash;
 
 ## Section 4
 

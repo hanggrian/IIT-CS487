@@ -1,7 +1,7 @@
 # [Homework 4](https://github.com/hendraanggrian/IIT-CS487/blob/assets/assignments/hw4.pdf): Modeling awareness
 
 > You are designing a wearable device which must make the wearer acceptably
-  aware of 3 types of “threats”:
+  aware of 3 types of "threats":
 >
 > - An internal health condition
 > - An immediate external safety threat
@@ -65,11 +65,11 @@ fire department.
 
 > Describe a metric or metrics for specifying SA in each case.
 
-| Case | Metrics |
-| --- | --- |
-| An internal health condition | Heart rate and blood volume can be measured by using a light absorption sensor. |
-| An immediate external safety threat | Hand gestures, body posture, and movement are tracked by a combination of a camera and other sensors. |
-| Disinformation intended to destabilize society | Whether or not the shared content is factual and contextual. |
+Case | Metrics
+--- | ---
+An internal health condition | Heart rate and blood volume can be measured by using a light absorption sensor.
+An immediate external safety threat | Hand gestures, body posture, and movement are tracked by a combination of a camera and other sensors.
+Disinformation intended to destabilize society | Whether or not the shared content is factual and contextual.
 
 ## Problem 4
 
@@ -83,7 +83,7 @@ assessments by a manual input device or voice command.
 
 ## Problem 5
 
-> Describe a test strategy to “prove” #4.
+> Describe a test strategy to "prove" #4.
 
 - Compare health data &mdash; Periodically check the wearer's heart rate and
   blood level to look for any irregularity. Assert that the data gathered by the
@@ -95,6 +95,6 @@ assessments by a manual input device or voice command.
 
 ## References
 
-1. [Castaneda, D., Esparza, A., Ghamari, M., Soltanpur, C., & Nazeran, H. (2018). A review on wearable photoplethysmography sensors and their potential future applications in health care. *International journal of biosensors & bioelectronics, 4*(4), 195.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426305/)
+1.  [Castaneda, D., Esparza, A., Ghamari, M., Soltanpur, C., & Nazeran, H. (2018). A review on wearable photoplethysmography sensors and their potential future applications in health care. *International journal of biosensors & bioelectronics, 4*(4), 195.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426305/)
 
 [\[1\]]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6426305/
