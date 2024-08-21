@@ -1,4 +1,4 @@
-# [Homework 3](https://github.com/hendraanggrian/IIT-CS487/blob/assets/assignments/hw3.pdf): Embedded system
+# [Homework 3](https://github.com/hanggrian/IIT-CS487/blob/assets/assignments/hw3.pdf): Embedded system
 
 > Consider a control system which relies on sensors and systems to automatically
   manage an office building:
@@ -12,9 +12,9 @@
 
 > Draw a context model capturing the system and its "partners".
 
-![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/assignments/hw3/context_model.svg)
+![](https://github.com/hanggrian/IIT-CS487/raw/assets/assignments/hw3/context_model.svg)
 
-[View diagram file](https://github.com/hendraanggrian/IIT-CS487/blob/main/assignments/hw3/context_model.drawio)
+[View diagram file](https://github.com/hanggrian/IIT-CS487/blob/main/assignments/hw3/context_model.drawio)
 
 ## Problem 2
 

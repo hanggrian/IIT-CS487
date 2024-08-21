@@ -120,7 +120,7 @@ Stable Diffusion are the most credible. Furthermore, the study notes that
 results that are too graphically pleasing could be discouraging and provokes an
 accusation of being fake.
 
-![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/assignments/proj2/fig1.png)
+![](https://github.com/hanggrian/IIT-CS487/raw/assets/assignments/proj2/fig1.png)
 
 <small>Figure 2 &mdash; Comparison of Stable Diffusion, Midjourney, and DALL-E</small>
 

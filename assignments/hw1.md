@@ -1,4 +1,4 @@
-# [Homework 1](https://github.com/hendraanggrian/IIT-CS487/blob/assets/assignments/hw1.pdf)
+# [Homework 1](https://github.com/hanggrian/IIT-CS487/blob/assets/assignments/hw1.pdf)
 
 ## Problem 1
 

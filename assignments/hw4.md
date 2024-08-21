@@ -1,4 +1,4 @@
-# [Homework 4](https://github.com/hendraanggrian/IIT-CS487/blob/assets/assignments/hw4.pdf): Modeling awareness
+# [Homework 4](https://github.com/hanggrian/IIT-CS487/blob/assets/assignments/hw4.pdf): Modeling awareness
 
 > You are designing a wearable device which must make the wearer acceptably
   aware of 3 types of "threats":

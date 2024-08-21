@@ -17,33 +17,33 @@ were also considered during the design process.
 
 ## Section 2
 
-![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/context_model.png)
+![](https://github.com/hanggrian/IIT-CS487/raw/assets/hca/context_model.png)
 
 ## Section 3
 
 ### State machine workflow
 
-![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/workflow1.png)
+![](https://github.com/hanggrian/IIT-CS487/raw/assets/hca/workflow1.png)
 
 ### Login sequence workflow
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/workflow2.png"/>
+<img width="640" src="https://github.com/hanggrian/IIT-CS487/raw/assets/hca/workflow2.png"/>
 
 ### Sign up workflow
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/workflow3.png"/>
+<img width="640" src="https://github.com/hanggrian/IIT-CS487/raw/assets/hca/workflow3.png"/>
 
 ### Add assignment workflow
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/workflow4.png"/>
+<img width="640" src="https://github.com/hanggrian/IIT-CS487/raw/assets/hca/workflow4.png"/>
 
 ### Edit assignment workflow
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/workflow5.png"/>
+<img width="640" src="https://github.com/hanggrian/IIT-CS487/raw/assets/hca/workflow5.png"/>
 
 ### Delete assignment workflow
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/workflow6.png"/>
+<img width="640" src="https://github.com/hanggrian/IIT-CS487/raw/assets/hca/workflow6.png"/>
 
 ## Section 4
 
@@ -85,11 +85,11 @@ edit_assignment(assignment):
 
 ### Use case diagram
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/use_case.png"/>
+<img width="640" src="https://github.com/hanggrian/IIT-CS487/raw/assets/hca/use_case.png"/>
 
 ### Class diagram
 
-<img width="640" src="https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/data.png"/>
+<img width="640" src="https://github.com/hanggrian/IIT-CS487/raw/assets/hca/data.png"/>
 
 ## Section 6
 
@@ -146,12 +146,12 @@ troubleshooting.
 
 Login | Sign up
 --- | ---
-![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype1.png) | ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype2.png)
+![](https://github.com/hanggrian/IIT-CS487/raw/assets/hca/prototype1.png) | ![](https://github.com/hanggrian/IIT-CS487/raw/assets/hca/prototype2.png)
 
 Calendar view | List view | Class view
 --- | --- | ---
-![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype3.png) | ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype4.png) | ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype5.png)
+![](https://github.com/hanggrian/IIT-CS487/raw/assets/hca/prototype3.png) | ![](https://github.com/hanggrian/IIT-CS487/raw/assets/hca/prototype4.png) | ![](https://github.com/hanggrian/IIT-CS487/raw/assets/hca/prototype5.png)
 
 Add assignment | View assignment
 --- | ---
-![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype6.png) | ![](https://github.com/hendraanggrian/IIT-CS487/raw/assets/hca/prototype7.png)
+![](https://github.com/hanggrian/IIT-CS487/raw/assets/hca/prototype6.png) | ![](https://github.com/hanggrian/IIT-CS487/raw/assets/hca/prototype7.png)

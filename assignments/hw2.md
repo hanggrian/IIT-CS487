@@ -1,4 +1,4 @@
-# [Homework 2](https://github.com/hendraanggrian/IIT-CS487/blob/assets/assignments/hw2.pdf)
+# [Homework 2](https://github.com/hanggrian/IIT-CS487/blob/assets/assignments/hw2.pdf)
 
 > Consider an automated exam system.
 
